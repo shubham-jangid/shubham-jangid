@@ -15,7 +15,7 @@ Outside work I design, build and run my own products. Most of the code is privat
 | **[InvoiceHub](https://invoicehub.shubhamjangid.in)** | GST tax invoices and quotes for small Indian businesses. CGST/SGST/IGST by place of supply, Tally-format PDF with UPI QR, and a GSTR-1-ready CSV. | Next.js · Prisma · Postgres · Cloudflare Workers |
 | **[Kharcha](https://kharcha.shubhamjangid.in)** | A private expense tracker. It reads bank SMS on your phone and never uploads them. No ads, no trackers. | Expo · React Native · Firebase |
 | **[Photo Select](https://pick.shubhamjangid.in)** | Wedding photographers share a private proof gallery, the family picks photos together, and the chosen file names go straight into Lightroom. | Astro · React · Hono · Cloudflare Workers |
-| **FitClubConnect** _(coming soon)_ | Multi-tenant, white-label SaaS for gyms: a website, member portal and back office for every club. | Next.js · Firebase · Cloudflare edge |
+| **[FitClubConnect](https://fitclubconnect.in)** | Multi-tenant, white-label SaaS for gyms: a website, member portal and back office for every club. | Next.js · Firebase · Cloudflare edge |
 | **[prai](https://github.com/shubham-jangid/prai)** | An open-source AI PR reviewer for GitHub, Bitbucket and GitLab that runs on your own Claude Code subscription. `npm i -g prai-review` | TypeScript · Node |
 
 ### 🏢 Sites I built for businesses
