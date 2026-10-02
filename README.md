@@ -30,8 +30,8 @@ Outside work I design, build and run my own products. Most of the code is privat
 
 ### 🛠️ What I work with
 
-**Frontend:** React · Next.js · Astro · TypeScript · Electron · React Native (Expo) · MobX-State-Tree
-**Backend and infra:** Node · Hono · Cloudflare Workers / D1 / R2 · Firebase · Postgres · Vercel
+- **Frontend:** React · Next.js · Astro · TypeScript · Electron · React Native (Expo) · MobX-State-Tree
+- **Backend and infra:** Node · Hono · Cloudflare Workers / D1 / R2 · Firebase · Postgres · Vercel
 
 ### 📈 Results from my work
 
