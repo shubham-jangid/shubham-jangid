@@ -23,7 +23,7 @@ Outside work I design, build and run my own products. Most of the code is privat
 | Site | What it is | Stack |
 |---|---|---|
 | **[Eagle Decor](https://eagledecor.in)** | Interior design studio in Delhi NCR, with a CMS-driven blog, cost calculators and project portfolio. | Astro · Sanity · Cloudflare Workers |
-| **[Gaumaya](https://gaumaya.com)** | Bilingual storefront for gaushala-sourced vermicompost from Narnaul, Haryana, with payments and shipping built in. | Astro · Sanity · D1 · Razorpay |
+| **[Gaumaya](https://gaumaya.com)** | Bilingual brand site for gaushala-sourced vermicompost from Narnaul, Haryana. | Astro · Sanity · Cloudflare Workers + D1 |
 | **[Golden Phere](https://goldenphere.in)** | Wedding photography and films studio, with offers and pricing editable from an admin panel. | Static site · GSAP · Cloudflare Workers + KV |
 
 ---
